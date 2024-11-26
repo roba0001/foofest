@@ -1,4 +1,4 @@
-# Front End Design Elective - Spring 2024
+# Front End Design Elective - Autumn 2024
 
 ## Overview
 
