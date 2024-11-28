@@ -39,4 +39,4 @@ This will probably mess up Next when fetching serverside, this is OK, it's a fre
 
 ### Endpoints
 
-All endpoints are [documented here](https://jonasholbech.github.io/Foofest-Exam-API-Docs/)
+All endpoints are [documented here](https://daviatkea.github.io/Foofest-Exam-API-Docs/)

@@ -22,4 +22,4 @@ The backend team has created a little documentation for you guys.
 
 [Documentation for setting up your servers](DEPLOYMENT-GLITCH.md)
 
-[Documentation for the API](https://jonasholbech.github.io/Foofest-Exam-API-Docs/)
+[Documentation for the API](https://daviatkea.github.io/Foofest-Exam-API-Docs/)
